@@ -20,9 +20,11 @@ Context mContext;
 
 
 /**
- * Create a new OperaAdapter object */
+ * Create a new OperaAdapter object
+ * @param
+ * @param opere*/
 
-public OperaAdapter(Context context, ArrayAdapter<Opera> opere){
+public OperaAdapter(Context context, ArrayList<Opera> opere){
     super(context,R.layout.list_item, (List<Opera>) opere);
 }
 

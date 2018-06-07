@@ -15,5 +15,83 @@
         The App dedicated to all tourists and citizens of Naples with the aim of giving visibility to the splendid works created along the streets.\n\nDiscover the city including during your stay even the most hidden but freely available works.\n\nAn alternative point of view on the ever-changing city of Naples.\nHave fun!
     </string>
 
+    <!--OldTown-->
+    <string name="ot_opera1_name">La Guerrigliera</string>
+    <string name="ot_opera2_name">Madonna in estasi</string>
+    <string name="ot_opera3_name">Che Marònn’ sto Riciclo!</string>
+    <string name="ot_opera4_name">Pietà laica</string>
+    <string name="ot_opera5_name">San Gennaro</string>
+    <string name="ot_opera6_name">Fidel Castro </string>
+    <string name="ot_opera7_name">Mission Possible</string>
+
+    <string name="ot_opera1_author">Alice Pasquini</string>
+    <string name="ot_opera2_author">Banksy</string>
+    <string name="ot_opera3_author">CRL</string>
+    <string name="ot_opera4_author">Ernest Pignon </string>
+    <string name="ot_opera5_author">Jorit</string>
+    <string name="ot_opera6_author">Mono Gonzales e Tono Cruz </string>
+    <string name="ot_opera7_author">Roxy in the Box </string>
+
+    <string name="ot_opera1_address">Calata Trinità Maggiore, 32</string>
+    <string name="ot_opera2_address">Piazza Gerolomini</string>
+    <string name="ot_opera3_address">Via San Biagio dei Librai</string>
+    <string name="ot_opera4_address">Santa Chiara</string>
+    <string name="ot_opera5_address">Via Vicaria Vecchia,34</string>
+    <string name="ot_opera6_address">Via Mezzocannone, 12</string>
+    <string name="ot_opera7_address">piazza Riario Sforza</string>
+
+    <string name="ot_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
+
+    <string name="ot_opera2_desc">Banksy we know him for the irreverent spirit, the real revolution of this constituted the English urban art. One of his stencils is present in Piazza dei Gerolomini, set among small votive altars and elderly inhabitants of the place, who have made him come as a new neighbor.\nIt is a Madonna in ecstasy that reveals over the head the image of a firearm, is the classic pure icon but dangerously modern. The English artist adds another piece to his international work, but this time by merging tradition with criticism and genius. </string>
+
+    <string name="ot_opera3_desc">This is a stencil of CRL, not too large and not very visible along via San Biagio dei Librai, painting on a sheet set in the ancient stone of a historical building.\nA Madonna of Recycling; the ironic and careful ability to bring an icon with ancient features next to a symbol that recalls not only recycling but also difficult events that have hit the city. CRL represents a turning point which means: it will be hard and we will do it in our own way, but it will work!</string>
+
+    <string name="ot_opera4_desc">His work was realized at the entrance of the monastery of Santa Chiara: la Pieta laica, as it was renamed, right in the street of the historic center of Naples where Pasolini had shot some scenes of the Decameron.\nThe unmistakable style reveals great technique and sensitivity, Pasolini holds in his arms what remains of his own body that is once again forced to undergo a violent tear, a death at the hands of others. I advise you to see it even after the damage, to understand that it is not easy, the coexistence between old and new, but difficult, and this Pietà is its emblem, strong and intense even in pieces.</string>
+
+    <string name="ot_opera5_desc">The San Gennaro that stands out on the facade of a large Forcella palace is another work by Jorit and has a very special characteristic: its face is that of a worker friend of the artist.\nThe mural is more than 15 meters high and has an absorbed look upwards. More than between graffiti, it can almost be included in the category of paintings, even if made with the spray, thanks to the naturalness and depth of its expression. For Jorit, drawing inspiration from the inhabitants of the neighborhoods in which he works is a way to give greater humanity to his works.</string>
+
+    <string name="ot_opera6_desc">The mural of Fidel Castro was painted in the historic center of Naples, as a tribute to the value of the Resistance. Created by Mono Gonzales and Tono Cruz, two internationally renowned street artists, it is located on the façade of the Mezzocannone Occupato social center, home to various collectives.\nThe two authors concluded it on the day of the funeral of Lider Maximo and wanted to portray Castro playing his face twice, while observing in two different directions. A work with a deep political and social meaning, in perfect line with the type of art of Gonzales, an artist committed to representing social injustices and always on the side of the weakest.</string>
+
+    <string name="ot_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
+
+    <!--Materdei & Sanità-->
+    <string name="mt_opera1_name">La Guerrigliera</string>
+    <string name="mt_opera2_name">Madonna in estasi</string>
+    <string name="mt_opera3_name">Che Marònn’ sto Riciclo!</string>
+    <string name="mt_opera4_name">Pietà laica</string>
+    <string name="mt_opera5_name">San Gennaro</string>
+    <string name="mt_opera6_name">Fidel Castro </string>
+    <string name="mt_opera7_name">Mission Possible</string>
+
+    <string name="mt_opera1_author">Alice Pasquini</string>
+    <string name="mt_opera2_author">Banksy</string>
+    <string name="mt_opera3_author">CRL</string>
+    <string name="mt_opera4_author">Ernest Pignon-Ernest </string>
+    <string name="mt_opera5_author">Jorit</string>
+    <string name="mt_opera6_author">Mono Gonzales e Tono Cruz </string>
+    <string name="mt_opera7_author">Roxy in the Box </string>
+
+    <string name="mt_opera1_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera2_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera3_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera4_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera5_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera6_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera7_address">Calata Trinità Maggiore, 32</string>
+
+    <string name="mt_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
+
+    <string name="mt_opera2_desc">Banksy we know him for the irreverent spirit, the real revolution of this constituted the English urban art. One of his stencils is present in Piazza dei Gerolomini, set among small votive altars and elderly inhabitants of the place, who have made him come as a new neighbor.\nIt is a Madonna in ecstasy that reveals over the head the image of a firearm, is the classic pure icon but dangerously modern. The English artist adds another piece to his international work, but this time by merging tradition with criticism and genius. </string>
+
+    <string name="mt_opera3_desc">This is a stencil of CRL, not too large and not very visible along via San Biagio dei Librai, painting on a sheet set in the ancient stone of a historical building.\nA Madonna of Recycling; the ironic and careful ability to bring an icon with ancient features next to a symbol that recalls not only recycling but also difficult events that have hit the city. CRL represents a turning point which means: it will be hard and we will do it in our own way, but it will work!</string>
+
+    <string name="mt_opera4_desc">His work was realized at the entrance of the monastery of Santa Chiara: la Pieta laica, as it was renamed, right in the street of the historic center of Naples where Pasolini had shot some scenes of the Decameron.\nThe unmistakable style reveals great technique and sensitivity, Pasolini holds in his arms what remains of his own body that is once again forced to undergo a violent tear, a death at the hands of others. I advise you to see it even after the damage, to understand that it is not easy, the coexistence between old and new, but difficult, and this Pietà is its emblem, strong and intense even in pieces.</string>
+
+    <string name="mt_opera5_desc">The San Gennaro that stands out on the facade of a large Forcella palace is another work by Jorit and has a very special characteristic: its face is that of a worker friend of the artist.\nThe mural is more than 15 meters high and has an absorbed look upwards. More than between graffiti, it can almost be included in the category of paintings, even if made with the spray, thanks to the naturalness and depth of its expression. For Jorit, drawing inspiration from the inhabitants of the neighborhoods in which he works is a way to give greater humanity to his works.</string>
+
+    <string name="mt_opera6_desc">The mural of Fidel Castro was painted in the historic center of Naples, as a tribute to the value of the Resistance. Created by Mono Gonzales and Tono Cruz, two internationally renowned street artists, it is located on the façade of the Mezzocannone Occupato social center, home to various collectives.\nThe two authors concluded it on the day of the funeral of Lider Maximo and wanted to portray Castro playing his face twice, while observing in two different directions. A work with a deep political and social meaning, in perfect line with the type of art of Gonzales, an artist committed to representing social injustices and always on the side of the weakest.</string>
+
+    <string name="mt_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
+
 
 </resources>
