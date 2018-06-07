@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StreetArtNaples</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">START</string>
+    <string name="nav_header_subtitle">Street Art Naples</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+
+    <!--HOME-->
+    <string name="homeDescription">
+        The App dedicated to all tourists and citizens of Naples with the aim of giving visibility to the splendid works created along the streets.\n\nDiscover the city including during your stay even the most hidden but freely available works.\n\nAn alternative point of view on the ever-changing city of Naples.\nHave fun!
+    </string>
+
+
+</resources>
