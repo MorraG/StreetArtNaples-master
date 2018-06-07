@@ -27,8 +27,8 @@ public class OldTown extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
-       //*return inflater.inflate(R.layout.oldtown, container, false);*//*
-        View view = inflater.inflate(R.layout.oldtown, container, false);
+
+        View view = inflater.inflate(R.layout.content_main, container, false);
 
         //creation of array list of Street Art Operas
         ArrayList<Opera> opere = new ArrayList<Opera>();
@@ -48,9 +48,10 @@ public class OldTown extends Fragment {
         // Find the ListView object
         // There should be a ListView with the view ID called list, which is declared in the
         // content_main.xml layout file.
-        ListView listView = (ListView)view.findViewById(R.id.list);
+        ListView listView = view.findViewById(R.id.list);
 
         listView.setAdapter(adapter);
+
 
         return view;
 
