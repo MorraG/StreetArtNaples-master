@@ -46,8 +46,7 @@ public class MainActivity extends AppCompatActivity
 
         displaySelectedScreen(R.id.nav_home);
 
-        listView=(ListView)findViewById(R.id.list);
-        operas= new ArrayList<>();
+
 
 
     }
