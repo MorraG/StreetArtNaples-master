@@ -10,8 +10,9 @@
 
     <ImageView
         android:id="@+id/image"
-        android:layout_width="@dimen/list_item_height"
-        android:layout_height="0dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="center"
         android:layout_gravity="center_horizontal"
         android:layout_weight="4" />
 
@@ -31,6 +32,7 @@
             android:textColor="@android:color/black"
             android:textStyle="bold"
             tools:text="Mario Rossi"
+            android:textSize="@dimen/textSize_S"
             />
 
         <TextView
@@ -42,6 +44,7 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
             android:textStyle="bold"
+            android:textSize="@dimen/textSize_S"
             tools:text="Opera1" />
 
         <TextView
@@ -52,7 +55,8 @@
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
             android:textStyle="bold"
-            tools:text="Address" />
+            tools:text="Address"
+            android:textSize="@dimen/textSize_S"/>
 
         <TextView
             android:id="@+id/default_description_text_view2"
@@ -63,6 +67,7 @@
             android:textAlignment="center"
             android:textAppearance="?android:textAppearanceMedium"
             android:textColor="@android:color/black"
+            android:textSize="@dimen/textSize_S"
             tools:text="Description" />
     </LinearLayout>
 </LinearLayout>
