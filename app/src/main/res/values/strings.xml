@@ -5,7 +5,7 @@
     <string name="nav_header_title">START</string>
     <string name="nav_header_subtitle">Street Art Naples</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Exit</string>
 
 
 
@@ -56,42 +56,43 @@
 
     <!--Materdei & Sanità-->
     <string name="mt_opera1_name">La Guerrigliera</string>
-    <string name="mt_opera2_name">Madonna in estasi</string>
-    <string name="mt_opera3_name">Che Marònn’ sto Riciclo!</string>
-    <string name="mt_opera4_name">Pietà laica</string>
-    <string name="mt_opera5_name">San Gennaro</string>
-    <string name="mt_opera6_name">Fidel Castro </string>
-    <string name="mt_opera7_name">Mission Possible</string>
+    <string name="mt_opera2_name">Toto\'</string>
+    <string name="mt_opera3_name">Resi-Ti-Amo</string>
+    <string name="mt_opera4_name">Giardino Liberato</string>
+    <string name="mt_opera5_name">Partenope</string>
+    <string name="mt_opera6_name">No title</string>
+    <string name="mt_opera7_name">I mangiamaccheroni </string>
 
-    <string name="mt_opera1_author">Alice Pasquini</string>
-    <string name="mt_opera2_author">Banksy</string>
-    <string name="mt_opera3_author">CRL</string>
-    <string name="mt_opera4_author">Ernest Pignon-Ernest </string>
-    <string name="mt_opera5_author">Jorit</string>
-    <string name="mt_opera6_author">Mono Gonzales e Tono Cruz </string>
-    <string name="mt_opera7_author">Roxy in the Box </string>
+    <string name="mt_opera1_author">Alex Senna</string>
+    <string name="mt_opera2_author">Fabio Borrelli</string>
+    <string name="mt_opera3_author">Bosoletti</string>
+    <string name="mt_opera4_author">Bosoletti </string>
+    <string name="mt_opera5_author">Bosoletti</string>
+    <string name="mt_opera6_author">Blue</string>
+    <string name="mt_opera7_author">Naf-Mc</string>
 
-    <string name="mt_opera1_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera2_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera3_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera4_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera5_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera6_address">Calata Trinità Maggiore, 32</string>
-    <string name="mt_opera7_address">Calata Trinità Maggiore, 32</string>
+    <string name="mt_opera1_address">Vico Lammatari</string>
+    <string name="mt_opera2_address">Via Santa Maria Antasaecula</string>
+    <string name="mt_opera3_address">Basilica di Santa Maria</string>
+    <string name="mt_opera4_address">Salita S.Raffaele</string>
+    <string name="mt_opera5_address">Salita S.Raffaele</string>
+    <string name="mt_opera6_address">EX OSPEDALE PSICHIATRICO, via Matteo Renato Imbriani 218</string>
+    <string name="mt_opera7_address">Largo Gaspare Colorito</string>
 
     <string name="mt_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
 
-    <string name="mt_opera2_desc">Banksy we know him for the irreverent spirit, the real revolution of this constituted the English urban art. One of his stencils is present in Piazza dei Gerolomini, set among small votive altars and elderly inhabitants of the place, who have made him come as a new neighbor.\nIt is a Madonna in ecstasy that reveals over the head the image of a firearm, is the classic pure icon but dangerously modern. The English artist adds another piece to his international work, but this time by merging tradition with criticism and genius. </string>
+    <string name="mt_opera2_desc">Fabio Borrelli is one of the most popular tattoo artists-designers in the city and this time he passed, joining the passion for drawing that for Naples and for the artists who have made the city great./n
+In the road that gave birth to Totò, stands a beautiful design of the Prince of Laughter that remedies the serious lack of information on the exact allocation of the birthplace of Antonio De Curtis.</string>
 
-    <string name="mt_opera3_desc">This is a stencil of CRL, not too large and not very visible along via San Biagio dei Librai, painting on a sheet set in the ancient stone of a historical building.\nA Madonna of Recycling; the ironic and careful ability to bring an icon with ancient features next to a symbol that recalls not only recycling but also difficult events that have hit the city. CRL represents a turning point which means: it will be hard and we will do it in our own way, but it will work!</string>
+    <string name="mt_opera3_desc">The work represents two young lovers who support each other almost like a dance. Bosoletti had as its source of inspiration the true story of two boys in the neighborhood, who fought and won a serious illness by loving each other./nThe mural was funded by an association of the area together with the Basilica of Santa Maria alla Sanità and is the symbol of an active cultural and artistic resistance of the neighborhood.</string>
 
-    <string name="mt_opera4_desc">His work was realized at the entrance of the monastery of Santa Chiara: la Pieta laica, as it was renamed, right in the street of the historic center of Naples where Pasolini had shot some scenes of the Decameron.\nThe unmistakable style reveals great technique and sensitivity, Pasolini holds in his arms what remains of his own body that is once again forced to undergo a violent tear, a death at the hands of others. I advise you to see it even after the damage, to understand that it is not easy, the coexistence between old and new, but difficult, and this Pietà is its emblem, strong and intense even in pieces.</string>
+    <string name="mt_opera4_desc">The depiction of a girl with an ethereal and afflicted face./nThe work is called Liberated Garden.</string>
 
-    <string name="mt_opera5_desc">The San Gennaro that stands out on the facade of a large Forcella palace is another work by Jorit and has a very special characteristic: its face is that of a worker friend of the artist.\nThe mural is more than 15 meters high and has an absorbed look upwards. More than between graffiti, it can almost be included in the category of paintings, even if made with the spray, thanks to the naturalness and depth of its expression. For Jorit, drawing inspiration from the inhabitants of the neighborhoods in which he works is a way to give greater humanity to his works.</string>
+    <string name="mt_opera5_desc">In the district of Materdei, painted on 15 meters of the facade of a condominium of ascent San Raffaele, there is Partenope; the imposing work of the Argentine artist Francisco Bosoletti, known for his plastic bodies suspended in mythological atmospheres./nAs usual in Naples, the relationship between legend and modernity lasts over time. Parthenope is the mermaid linked to Castel dell\'Ovo and to Ulysses, celebrated by Virgil and venerated in Naples as a protector goddess, depicted in the sculpture in Piazza Sannazaro half fish and half bird./nHere freed from the marble, the siren of Bosoletti develops in a vortex of small movements suggested by the variety of the color and the pose in becoming, it belongs to the sea and to the sky and silently protects the way./nThe work is the result of a district loan, supported by a voluntary subscription: in exchange for an offer and a small postcard depicting the original project of the murals, more than a thousand people have donated one euro or more, to pay the paint costs and scaffold hire for the artist.</string>
 
-    <string name="mt_opera6_desc">The mural of Fidel Castro was painted in the historic center of Naples, as a tribute to the value of the Resistance. Created by Mono Gonzales and Tono Cruz, two internationally renowned street artists, it is located on the façade of the Mezzocannone Occupato social center, home to various collectives.\nThe two authors concluded it on the day of the funeral of Lider Maximo and wanted to portray Castro playing his face twice, while observing in two different directions. A work with a deep political and social meaning, in perfect line with the type of art of Gonzales, an artist committed to representing social injustices and always on the side of the weakest.</string>
+    <string name="mt_opera6_desc">On one of the facades of the former Occupied OPG (former Judicial Psychiatric Hospital) in Materdei it is possible to admire the enormous mural created by the artist BLU./nThe figure shows an ambiguous and enigmatic green character with an open mouth, a dramatic and disquieting figure that manages to relate to its context, like all the artist\'s works. In fact, the wide open mouth is right in correspondence of a window, giving a greater sense of disquiet. Blu is among the most important street artists in the world and his works are found in dozens of countries.</string>
 
-    <string name="mt_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
+    <string name="mt_opera7_desc">The author was inspired by vintage postcards and lithographs. He tried to represent his idea of the soul of Naples, always poised between tradition and modernity./nIn this mural is represented three scugnizzi (the "street brat") that eat macaroni (the mangiamaccheroni) a very used and stereotyped image in postcards and representations of popular Naples.</string>
 
 
 </resources>

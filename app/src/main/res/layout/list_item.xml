@@ -13,8 +13,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scaleType="center"
-        android:layout_gravity="center_horizontal"
-        android:layout_weight="4" />
+        android:layout_gravity="center_horizontal"/>
+
+
 
     <LinearLayout
         android:id="@+id/text_container"
@@ -24,50 +25,22 @@
 
         <TextView
             android:id="@+id/autore_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="top"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/black"
-            android:textStyle="bold"
             tools:text="Mario Rossi"
-            android:textSize="@dimen/textSize_S"
-            />
+            style="@style/author_textview_style" />
 
         <TextView
             android:id="@+id/titolo_text_view"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:gravity="top"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/black"
-            android:textStyle="bold"
-            android:textSize="@dimen/textSize_S"
-            tools:text="Opera1" />
+            tools:text="Opera1"
+            style="@style/title_textview_style" />
 
         <TextView
             android:id="@+id/default_address_text_view1"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/black"
-            android:textStyle="bold"
             tools:text="Address"
-            android:textSize="@dimen/textSize_S"/>
+            style="@style/address_textview_style" />
 
         <TextView
             android:id="@+id/default_description_text_view2"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="3"
-            android:gravity="top"
-            android:textAlignment="center"
-            android:textAppearance="?android:textAppearanceMedium"
-            android:textColor="@android:color/black"
-            android:textSize="@dimen/textSize_S"
-            tools:text="Description" />
+            tools:text="Description"
+            style="@style/description_textview_style" />
     </LinearLayout>
 </LinearLayout>
