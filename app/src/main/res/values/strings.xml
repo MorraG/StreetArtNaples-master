@@ -23,6 +23,7 @@
     <string name="ot_opera5_name">San Gennaro</string>
     <string name="ot_opera6_name">Fidel Castro </string>
     <string name="ot_opera7_name">Mission Possible</string>
+    <string name="ot_opera8_name">La Speranza che risolleva l\'Amore ferito</string>
 
     <string name="ot_opera1_author">Alice Pasquini</string>
     <string name="ot_opera2_author">Banksy</string>
@@ -31,6 +32,7 @@
     <string name="ot_opera5_author">Jorit Agoch</string>
     <string name="ot_opera6_author">Mono Gonzales e Tono Cruz </string>
     <string name="ot_opera7_author">Roxy in the Box </string>
+    <string name="ot_opera8_author">Zilda</string>
 
     <string name="ot_opera1_address">Calata Trinità Maggiore, 32</string>
     <string name="ot_opera2_address">Piazza Gerolomini</string>
@@ -38,7 +40,8 @@
     <string name="ot_opera4_address">Santa Chiara</string>
     <string name="ot_opera5_address">Via Vicaria Vecchia,34</string>
     <string name="ot_opera6_address">Via Mezzocannone, 12</string>
-    <string name="ot_opera7_address">piazza Riario Sforza</string>
+    <string name="ot_opera7_address">Piazza Riario Sforza</string>
+    <string name="ot_opera8_address">Palazzo dell\'immacolatella, stazione marittima molo Angioino</string>
 
     <string name="ot_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
 
@@ -53,6 +56,8 @@
     <string name="ot_opera6_desc">The mural of Fidel Castro was painted in the historic center of Naples, as a tribute to the value of the Resistance. Created by Mono Gonzales and Tono Cruz, two internationally renowned street artists, it is located on the façade of the Mezzocannone Occupato social center, home to various collectives.\nThe two authors concluded it on the day of the funeral of Lider Maximo and wanted to portray Castro playing his face twice, while observing in two different directions. A work with a deep political and social meaning, in perfect line with the type of art of Gonzales, an artist committed to representing social injustices and always on the side of the weakest.</string>
 
     <string name="ot_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
+
+    <string name="ot_opera8_desc">The artist introduces this work as well as others in the city choosing roofs, alleys without light, walled churches, places with a painful beauty. The artist\'s aim is to revisit the symbolistic and pre-Raphaelite paintings.</string>
 
     <!--Materdei & Sanità-->
     <string name="mt_opera1_name">Unknown</string>
