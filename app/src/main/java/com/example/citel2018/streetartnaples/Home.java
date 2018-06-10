@@ -14,7 +14,7 @@ public class Home extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        getActivity().setTitle("STreet ART Naples");
+        getActivity().setTitle("STreet ART Napoli");
     }
 
     @Nullable
