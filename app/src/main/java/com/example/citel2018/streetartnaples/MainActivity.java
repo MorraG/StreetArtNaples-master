@@ -22,7 +22,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    ArrayList<Opera>operas;
+    ArrayList<Opera> operas;
     ListView listView;
     private static OperaAdapter adapter;
 
@@ -45,9 +45,6 @@ public class MainActivity extends AppCompatActivity
 
 
         displaySelectedScreen(R.id.nav_home);
-
-
-
 
 
     }
@@ -111,8 +108,8 @@ public class MainActivity extends AppCompatActivity
                 break;
         }
 
-        if(fragment != null){
-            FragmentTransaction ft= getSupportFragmentManager().beginTransaction();
+        if (fragment != null) {
+            FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
             ft.replace(R.id.content_main, fragment);
             ft.commit();
         }
