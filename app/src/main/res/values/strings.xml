@@ -1,13 +1,11 @@
 <resources>
-    <string name="app_name">StreetArtNaples</string>
+    <string name="app_name">StreetArtNapoli</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">START</string>
     <string name="nav_header_subtitle">Street Art Napoli</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Exit</string>
-
-
 
 
     <!--HOME-->
@@ -24,6 +22,7 @@
     <string name="ot_opera6_name">Fidel Castro </string>
     <string name="ot_opera7_name">Mission Possible</string>
     <string name="ot_opera8_name">La Speranza che risolleva l\'Amore ferito</string>
+    <string name="ot_opera9_name">Pudicizia</string>
 
     <string name="ot_opera1_author">Alice Pasquini</string>
     <string name="ot_opera2_author">Banksy</string>
@@ -33,6 +32,7 @@
     <string name="ot_opera6_author">Mono Gonzales e Tono Cruz </string>
     <string name="ot_opera7_author">Roxy in the Box </string>
     <string name="ot_opera8_author">Zilda</string>
+    <string name="ot_opera9_author">Bosoletti</string>
 
     <string name="ot_opera1_address">Calata Trinità Maggiore, 32</string>
     <string name="ot_opera2_address">Piazza Gerolomini</string>
@@ -42,6 +42,7 @@
     <string name="ot_opera6_address">Via Mezzocannone, 12</string>
     <string name="ot_opera7_address">Piazza Riario Sforza</string>
     <string name="ot_opera8_address">Palazzo dell\'immacolatella, stazione marittima molo Angioino</string>
+    <string name="ot_opera9_address">Via Emanuele De Deo</string>
 
     <string name="ot_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
 
@@ -58,6 +59,7 @@
     <string name="ot_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
 
     <string name="ot_opera8_desc">The artist introduces this work as well as others in the city choosing roofs, alleys without light, walled churches, places with a painful beauty. The artist\'s aim is to revisit the symbolistic and pre-Raphaelite paintings.</string>
+    <string name="ot_opera9_desc">This work is inspired by the "Pudicizia", an eighteenth-century sculpture by the Venetian sculptor Antonio Corradini, housed inside the Sansevero chapel. \ NBosoletti reinterprets a symbolic image of the city of Naples, making it an interactive work; as much of the murals made by the Argentine artist in fact, to appreciate the details, it is necessary to observe it through a phototagraphic filter that reverses its colors. \ nThe work, which to the naked eye appears incomplete and poorly defined, through The negative effect is revealed in its completeness, offering the public a multiple vision and revealing its three-dimensionality.</string>
 
     <!--Materdei & Sanità-->
     <string name="mt_opera1_name">Unknown</string>
@@ -81,15 +83,15 @@
     <string name="mt_opera1_address">Vico Lammatari</string>
     <string name="mt_opera2_address">Via Sanità</string>
     <string name="mt_opera3_address">Via Santa Maria Antasaecula</string>
-    <string name="mt_opera4_address">Basilica di Santa Maria</string>
+    <string name="mt_opera4_address">Basilica di Santa Maria della Sanità</string>
     <string name="mt_opera5_address">Salita S.Raffaele</string>
     <string name="mt_opera6_address">Salita S.Raffaele</string>
     <string name="mt_opera7_address">EX OSPEDALE PSICHIATRICO, via Matteo Renato Imbriani 218</string>
     <string name="mt_opera8_address">Largo Gaspare Colorito</string>
 
-    <string name="mt_opera1_desc"> The Author was inspired by common life scenes into the district, and represent a typical family. </string>
+    <string name="mt_opera1_desc">This time the author represent his concept of a number 10. Well known is the symbiotic relationship between city of Naples and football, the number ten is the symbol of somthing like an hero for the city as Maradona did. </string>
 
-    <string name="mt_opera2_desc">This time the author represent his concept of a number 10. Well known is the symbiotic relationship between city of Naples and football, the number ten is the symbol of somthing like an hero for the city as Maradona did. </string>
+    <string name="mt_opera2_desc"> The Author was inspired by common life scenes into the district, and represent a typical family. </string>
 
     <string name="mt_opera3_desc">Fabio Borrelli is one of the most popular tattoo artists-designers in the city and this time he passed, joining the passion for drawing that for Naples and for the artists who have made the city great./n
 In the road that gave birth to Totò, stands a beautiful design of the Prince of Laughter that remedies the serious lack of information on the exact allocation of the birthplace of Antonio De Curtis.</string>
@@ -111,6 +113,7 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="pt_opera4_name">Lo trattenemiento de\’ peccerille</string>
     <string name="pt_opera5_name">Chi è vuluto bene, nun s\’o scorda</string>
     <string name="pt_opera6_name">\'A pazziella\' n man\’\'e criature</string>
+    <string name="pt_opera7_name">\‘O sciore cchiù felice</string>
 
     <string name="pt_opera1_author">Daniele Hope Nitti</string>
     <string name="pt_opera2_author">Jorit Agoch</string>
@@ -118,6 +121,7 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="pt_opera4_author">Mattia Campo Dall’Orto</string>
     <string name="pt_opera5_author">Rosk&amp;Loste</string>
     <string name="pt_opera6_author">ZED1</string>
+    <string name="pt_opera7_author">Fabio Petani</string>
 
     <string name="pt_opera1_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
     <string name="pt_opera2_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
@@ -125,6 +129,8 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="pt_opera4_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
     <string name="pt_opera5_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
     <string name="pt_opera6_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
+    <string name="pt_opera7_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
+
 
     <string name="pt_opera1_desc">On a marvelous starry background the artist has been represented what seems to be a small village, a metaphor for an ideal suburb where, between houses and narrow streets, children, teenagers and adults have been drawn, with great elegance of style. the simplest tasks of daily life. Everyone seems happy to collaborate with each other thus reinforcing the meaning of solidarity as a relationship of brotherhood that unites the members of an entire community./nThe houses, made by the artist as stilt houses, seem to insist on a large expanse of water, connected to each other by many small bridges, the same that once plowed the waters of the Sebeto that bathed the eastern territory of Naples before Twentieth century were definitively erased by rapid industrial development and from which derives the current name of the neighborhood, Ponticelli.</string>
 
@@ -137,6 +143,8 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="pt_opera5_desc">A tribute to the dreams of the local community, through references of recent history and passions that unite the generations, the third great work created by the two Sicilian street artists Rosk &amp; Loste./nTwo boys play soccer on a surface of 400 square meters, a representation of the local desire that the space in front, where you play every day in a ball, turned from gray expanse of concrete into a regular field. That balloon in mid-air substantiates the wait and becomes the object of veneration along with the two sweaters. an all-blue for Naples and the other with white and celestial vertical bands for Argentina, colors of a season that the city lived with Maradona.</string>
 
     <string name="pt_opera6_desc">The artist reproduced, in surrealist style, toys with a joypad./nThe puppet seems to survive hardly the decomposition of traditional toys, crushed by the weight of the most contemporary, digital antagonists of this fabulous and enchanting scene. It represents the loss of heat and of the small sociality that many young people today ignore. They themselves are alienated only in the virtual world in which they are now sinking into a sense of strong unreality.</string>
+
+    <string name="pt_opera7_desc">The work is inspired by the research of Aldo Merola, botanist and director of Real L\'Orto Botanico di Napoli, whose neighborhood is dedicated to the residential complex and the long Viale that runs along the Park itself and the verdant Villa Comunale Fratelli De Filippo.\nThe work created by the Piedmontese artist Fabio Petani has as its protagonist a Gigaro Chiaro (Arum Italicum), a flower present in the Vallone di San Gennaro, which blooms in March, when the work of art was started.\nIn ancient times it was considered a magical plant capable of removing evil spirits. The title of the work is inspired by a song by Almamegretta.</string>
 
     <!--San Giovanni-->
     <string name="sg_opera1_name">Dios Umano</string>

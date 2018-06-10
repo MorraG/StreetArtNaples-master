@@ -30,10 +30,11 @@ public class Ponticelli extends Fragment {
 
         opere.add(new Opera(R.drawable.pt_image1, R.string.pt_opera1_author, R.string.pt_opera1_name, R.string.pt_opera1_address, R.string.pt_opera1_desc));
         opere.add(new Opera(R.drawable.pt_image2, R.string.pt_opera2_author, R.string.pt_opera2_name, R.string.pt_opera2_address, R.string.pt_opera2_desc));
-        opere.add(new Opera(R.drawable.ot_image3, R.string.pt_opera3_author, R.string.pt_opera3_name, R.string.pt_opera3_address, R.string.pt_opera3_desc));
-        opere.add(new Opera(R.drawable.ot_image4, R.string.pt_opera4_author, R.string.pt_opera4_name, R.string.pt_opera4_address, R.string.pt_opera4_desc));
+        opere.add(new Opera(R.drawable.pt_image3, R.string.pt_opera3_author, R.string.pt_opera3_name, R.string.pt_opera3_address, R.string.pt_opera3_desc));
+        opere.add(new Opera(R.drawable.pt_image4, R.string.pt_opera4_author, R.string.pt_opera4_name, R.string.pt_opera4_address, R.string.pt_opera4_desc));
         opere.add(new Opera(R.drawable.pt_image5, R.string.pt_opera5_author, R.string.pt_opera5_name, R.string.pt_opera5_address, R.string.pt_opera5_desc));
         opere.add(new Opera(R.drawable.pt_image6, R.string.pt_opera6_author, R.string.pt_opera6_name, R.string.pt_opera6_address, R.string.pt_opera6_desc));
+        opere.add(new Opera(R.drawable.pt_image7, R.string.pt_opera7_author, R.string.pt_opera7_name, R.string.pt_opera7_address, R.string.pt_opera7_desc));
 
         //creation of a custom adapter named  OPERA ADAPTER with this context (oldTown) and object OPERE
         //adapter knows how to create list items for each item in the list.

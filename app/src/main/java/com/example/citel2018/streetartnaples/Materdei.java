@@ -36,7 +36,7 @@ public class Materdei extends Fragment {
         opere.add(new Opera(R.drawable.mt_image1, R.string.mt_opera1_author, R.string.mt_opera1_name, R.string.mt_opera1_address, R.string.mt_opera1_desc));
         opere.add(new Opera(R.drawable.mt_image2, R.string.mt_opera2_author, R.string.mt_opera2_name, R.string.mt_opera2_address, R.string.mt_opera2_desc));
         opere.add(new Opera(R.drawable.mt_image3, R.string.mt_opera3_author, R.string.mt_opera3_name, R.string.mt_opera3_address, R.string.mt_opera3_desc));
-        opere.add(new Opera(R.drawable.ot_image4, R.string.mt_opera4_author, R.string.mt_opera4_name, R.string.mt_opera4_address, R.string.mt_opera4_desc));
+        opere.add(new Opera(R.drawable.mt_image4, R.string.mt_opera4_author, R.string.mt_opera4_name, R.string.mt_opera4_address, R.string.mt_opera4_desc));
         opere.add(new Opera(R.drawable.mt_image5, R.string.mt_opera5_author, R.string.mt_opera5_name, R.string.mt_opera5_address, R.string.mt_opera5_desc));
         opere.add(new Opera(R.drawable.mt_image6, R.string.mt_opera6_author, R.string.mt_opera6_name, R.string.mt_opera6_address, R.string.mt_opera6_desc));
         opere.add(new Opera(R.drawable.mt_image7, R.string.mt_opera7_author, R.string.mt_opera7_name, R.string.mt_opera7_address, R.string.mt_opera7_desc));

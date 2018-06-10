@@ -41,6 +41,7 @@ public class OldTown extends Fragment {
         opere.add(new Opera(R.drawable.ot_image6, R.string.ot_opera6_author, R.string.ot_opera6_name, R.string.ot_opera6_address, R.string.ot_opera6_desc));
         opere.add(new Opera(R.drawable.ot_image7, R.string.ot_opera7_author, R.string.ot_opera7_name, R.string.ot_opera7_address, R.string.ot_opera7_desc));
         opere.add(new Opera(R.drawable.ot_image8, R.string.ot_opera8_author, R.string.ot_opera8_name, R.string.ot_opera8_address, R.string.ot_opera8_desc));
+        opere.add(new Opera(R.drawable.ot_image9, R.string.ot_opera9_author, R.string.ot_opera9_name, R.string.ot_opera9_address, R.string.ot_opera9_desc));
 
         //creation of a custom adapter named  OPERA ADAPTER with this context (oldTown) and object OPERE
         //adapter knows how to create list items for each item in the list.
