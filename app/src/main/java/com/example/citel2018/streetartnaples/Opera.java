@@ -32,18 +32,34 @@ public class Opera {
      */
     private int mImageResourceId;
 
+    //**Location for the opera
+
+    private int mLocation;
+
+
+
 /**
  * Create a new Word object.
  */
 
-public Opera(int imageResourceId, int authorId, int titleId, int addressId, int descriptionId){
+public Opera(int imageResourceId, int authorId, int titleId, int addressId, int descriptionId, int locationData){
 
     mImageResourceId =  imageResourceId;
     mAuthorId = authorId;
     mTitleId = titleId;
     mAddressId = addressId;
     mDescriptionId = descriptionId;
-}
+    mLocation = locationData;
+
+    }
+    /**
+     * Get the location of the opera.
+     */
+    public int getLocation() {
+        return mLocation;
+    }
+
+
     /**
      * Get the image of the opera.
      */

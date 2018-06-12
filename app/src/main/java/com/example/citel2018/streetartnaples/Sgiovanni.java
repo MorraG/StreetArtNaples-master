@@ -28,8 +28,8 @@ public class Sgiovanni extends Fragment {
         //creation of array list of Street Art Operas
         ArrayList<Opera> opere = new ArrayList<Opera>();
 
-        opere.add(new Opera(R.drawable.sg_image1, R.string.sg_opera1_author, R.string.sg_opera1_name, R.string.sg_opera1_address, R.string.sg_opera1_desc));
-        opere.add(new Opera(R.drawable.sg_image2, R.string.sg_opera2_author, R.string.sg_opera2_name, R.string.sg_opera2_address, R.string.sg_opera2_desc));
+        opere.add(new Opera(R.drawable.sg_image1, R.string.sg_opera1_author, R.string.sg_opera1_name, R.string.sg_opera1_address, R.string.sg_opera1_desc,R.string.sg_opera1_location));
+        opere.add(new Opera(R.drawable.sg_image2, R.string.sg_opera2_author, R.string.sg_opera2_name, R.string.sg_opera2_address, R.string.sg_opera2_desc,R.string.sg_opera2_location));
 
         //creation of a custom adapter named  OPERA ADAPTER with this context (oldTown) and object OPERE
         //adapter knows how to create list items for each item in the list.

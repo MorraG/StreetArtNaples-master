@@ -8,7 +8,7 @@
             android:checked="true"
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home"
-            android:title="STreet ART Napoli" />
+            android:title="Home" />
         <item
             android:id="@+id/nav_oldtown"
             android:icon="@drawable/ic_oldtown"

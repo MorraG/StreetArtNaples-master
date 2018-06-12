@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">StreetArtNapoli</string>
+    <string name="app_name">STreetART Napoli</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">START</string>
-    <string name="nav_header_subtitle">Street Art Napoli</string>
+    <string name="nav_header_title">STreet ART Napoli</string>
+    <string name="nav_header_subtitle">STreet ART Napoli</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Exit</string>
 
@@ -36,13 +36,13 @@
 
     <string name="ot_opera1_address">Calata Trinità Maggiore, 32</string>
     <string name="ot_opera2_address">Piazza Gerolomini</string>
-    <string name="ot_opera3_address">Via San Biagio dei Librai</string>
+    <string name="ot_opera3_address">Via San Biagio dei Librai, 120</string>
     <string name="ot_opera4_address">Santa Chiara</string>
     <string name="ot_opera5_address">Via Vicaria Vecchia,34</string>
-    <string name="ot_opera6_address">Via Mezzocannone, 12</string>
+    <string name="ot_opera6_address">Via Mezzocannone, 14</string>
     <string name="ot_opera7_address">Piazza Riario Sforza</string>
     <string name="ot_opera8_address">Palazzo dell\'immacolatella, stazione marittima molo Angioino</string>
-    <string name="ot_opera9_address">Via Emanuele De Deo</string>
+    <string name="ot_opera9_address">Via Emanuele De Deo, 46</string>
 
     <string name="ot_opera1_desc">Alice is an illustrator, painter and set designer, she populates the cities where she finds passionate, romantic, combative and in love women.\nIn the vicinity of Calata Trinità Maggiore, in front of the SKA (a squatter laboratory near Piazza del Gesù), a gentle guerrilla is represented with thick glasses and the covered head and a finger placed on the lips, as if to suggest being cautious and pretend not to have ever seen her. The fringe leaves her uncovered only one big blue eye.</string>
 
@@ -59,7 +59,19 @@
     <string name="ot_opera7_desc">Very original murals that sees alongside the Patron of Naples, San Gennaro, and the painter Caravaggio, who spent the last years of his life in Naples. The Saint has in his hands a newspaper, Il Sole 24 Ore, while Caravaggio reads the New York Times with a Supersantos under his right foot. An element, the ball, which is a strong reference to the streets of Naples, where there are often kids playing football.</string>
 
     <string name="ot_opera8_desc">The artist introduces this work as well as others in the city choosing roofs, alleys without light, walled churches, places with a painful beauty. The artist\'s aim is to revisit the symbolistic and pre-Raphaelite paintings.</string>
-    <string name="ot_opera9_desc">This work is inspired by the "Pudicizia", an eighteenth-century sculpture by the Venetian sculptor Antonio Corradini, housed inside the Sansevero chapel. \ NBosoletti reinterprets a symbolic image of the city of Naples, making it an interactive work; as much of the murals made by the Argentine artist in fact, to appreciate the details, it is necessary to observe it through a phototagraphic filter that reverses its colors. \ nThe work, which to the naked eye appears incomplete and poorly defined, through The negative effect is revealed in its completeness, offering the public a multiple vision and revealing its three-dimensionality.</string>
+    <string name="ot_opera9_desc">This work is inspired by the "Pudicizia", an eighteenth-century sculpture by the Venetian sculptor Antonio Corradini, housed inside the Sansevero chapel.\nBosoletti reinterprets a symbolic image of the city of Naples, making it an interactive work; as much of the murals made by the Argentine artist in fact, to appreciate the details, it is necessary to observe it through a phototagraphic filter that reverses its colors.\nThe work, which to the naked eye appears incomplete and poorly defined, through The negative effect is revealed in its completeness, offering the public a multiple vision and revealing its three-dimensionality.</string>
+
+    <string name="ot_opera1_location">40.845568,14.251017</string>
+    <string name="ot_opera2_location">40.851637,14.258531</string>
+    <string name="ot_opera3_location">40.848975,14.256979</string>
+    <string name="ot_opera4_location">40.859374,14.249135</string>
+    <string name="ot_opera5_location">40.850118,14.260661</string>
+    <string name="ot_opera6_location">40.846973,14.255957</string>
+    <string name="ot_opera7_location">40.852121,14.260223</string>
+    <string name="ot_opera8_location">40.841588,14.258761</string>
+    <string name="ot_opera9_location">40.841469,14.244999</string>
+
+
 
     <!--Materdei & Sanità-->
     <string name="mt_opera1_name">Unknown</string>
@@ -80,12 +92,12 @@
     <string name="mt_opera7_author">Blue</string>
     <string name="mt_opera8_author">Naf-Mc</string>
 
-    <string name="mt_opera1_address">Vico Lammatari</string>
-    <string name="mt_opera2_address">Via Sanità</string>
+    <string name="mt_opera1_address">Via Sanità, 11</string>
+    <string name="mt_opera2_address">Via Sanità, 46</string>
     <string name="mt_opera3_address">Via Santa Maria Antasaecula</string>
     <string name="mt_opera4_address">Basilica di Santa Maria della Sanità</string>
-    <string name="mt_opera5_address">Salita S.Raffaele</string>
-    <string name="mt_opera6_address">Salita S.Raffaele</string>
+    <string name="mt_opera5_address">Salita S.Raffaele,55</string>
+    <string name="mt_opera6_address">Salita S.Raffaele,38</string>
     <string name="mt_opera7_address">EX OSPEDALE PSICHIATRICO, via Matteo Renato Imbriani 218</string>
     <string name="mt_opera8_address">Largo Gaspare Colorito</string>
 
@@ -93,18 +105,27 @@
 
     <string name="mt_opera2_desc"> The Author was inspired by common life scenes into the district, and represent a typical family. </string>
 
-    <string name="mt_opera3_desc">Fabio Borrelli is one of the most popular tattoo artists-designers in the city and this time he passed, joining the passion for drawing that for Naples and for the artists who have made the city great./n
-In the road that gave birth to Totò, stands a beautiful design of the Prince of Laughter that remedies the serious lack of information on the exact allocation of the birthplace of Antonio De Curtis.</string>
+    <string name="mt_opera3_desc">Fabio Borrelli is one of the most popular tattoo artists-designers in the city and this time he passed, joining the passion for drawing that for Naples and for the artists who have made the city great.\nIn the road that gave birth to Totò, stands a beautiful design of the Prince of Laughter that remedies the serious lack of information on the exact allocation of the birthplace of Antonio De Curtis.</string>
 
-    <string name="mt_opera4_desc">The work represents two young lovers who support each other almost like a dance. Bosoletti had as its source of inspiration the true story of two boys in the neighborhood, who fought and won a serious illness by loving each other./nThe mural was funded by an association of the area together with the Basilica of Santa Maria alla Sanità and is the symbol of an active cultural and artistic resistance of the neighborhood.</string>
+    <string name="mt_opera4_desc">The work represents two young lovers who support each other almost like a dance. Bosoletti had as its source of inspiration the true story of two boys in the neighborhood, who fought and won a serious illness by loving each other.\nThe mural was funded by an association of the area together with the Basilica of Santa Maria alla Sanità and is the symbol of an active cultural and artistic resistance of the neighborhood.</string>
 
-    <string name="mt_opera5_desc">The depiction of a girl with an ethereal and afflicted face./nThe work is called Liberated Garden.</string>
+    <string name="mt_opera5_desc">The depiction of a girl with an ethereal and afflicted face.\nThe work is called Liberated Garden.</string>
 
-    <string name="mt_opera6_desc">In the district of Materdei, painted on 15 meters of the facade of a condominium of ascent San Raffaele, there is Partenope; the imposing work of the Argentine artist Francisco Bosoletti, known for his plastic bodies suspended in mythological atmospheres./nAs usual in Naples, the relationship between legend and modernity lasts over time. Parthenope is the mermaid linked to Castel dell\'Ovo and to Ulysses, celebrated by Virgil and venerated in Naples as a protector goddess, depicted in the sculpture in Piazza Sannazaro half fish and half bird./nHere freed from the marble, the siren of Bosoletti develops in a vortex of small movements suggested by the variety of the color and the pose in becoming, it belongs to the sea and to the sky and silently protects the way./nThe work is the result of a district loan, supported by a voluntary subscription: in exchange for an offer and a small postcard depicting the original project of the murals, more than a thousand people have donated one euro or more, to pay the paint costs and scaffold hire for the artist.</string>
+    <string name="mt_opera6_desc">In the district of Materdei, painted on 15 meters of the facade of a condominium of ascent San Raffaele, there is Partenope; the imposing work of the Argentine artist Francisco Bosoletti, known for his plastic bodies suspended in mythological atmospheres.\nAs usual in Naples, the relationship between legend and modernity lasts over time. Parthenope is the mermaid linked to Castel dell\'Ovo and to Ulysses, celebrated by Virgil and venerated in Naples as a protector goddess, depicted in the sculpture in Piazza Sannazaro half fish and half bird.\nHere freed from the marble, the siren of Bosoletti develops in a vortex of small movements suggested by the variety of the color and the pose in becoming, it belongs to the sea and to the sky and silently protects the way.\nThe work is the result of a district loan, supported by a voluntary subscription: in exchange for an offer and a small postcard depicting the original project of the murals, more than a thousand people have donated one euro or more, to pay the paint costs and scaffold hire for the artist.</string>
 
-    <string name="mt_opera7_desc">On one of the facades of the former Occupied OPG (former Judicial Psychiatric Hospital) in Materdei it is possible to admire the enormous mural created by the artist BLU./nThe figure shows an ambiguous and enigmatic green character with an open mouth, a dramatic and disquieting figure that manages to relate to its context, like all the artist\'s works. In fact, the wide open mouth is right in correspondence of a window, giving a greater sense of disquiet. Blu is among the most important street artists in the world and his works are found in dozens of countries.</string>
+    <string name="mt_opera7_desc">On one of the facades of the former Occupied OPG (former Judicial Psychiatric Hospital) in Materdei it is possible to admire the enormous mural created by the artist BLU.\nThe figure shows an ambiguous and enigmatic green character with an open mouth, a dramatic and disquieting figure that manages to relate to its context, like all the artist\'s works. In fact, the wide open mouth is right in correspondence of a window, giving a greater sense of disquiet. Blu is among the most important street artists in the world and his works are found in dozens of countries.</string>
 
-    <string name="mt_opera8_desc">The author was inspired by vintage postcards and lithographs. He tried to represent his idea of the soul of Naples, always poised between tradition and modernity./nIn this mural is represented three scugnizzi (the "street brat") that eat macaroni (the mangiamaccheroni) a very used and stereotyped image in postcards and representations of popular Naples.</string>
+    <string name="mt_opera8_desc">The author was inspired by vintage postcards and lithographs. He tried to represent his idea of the soul of Naples, always poised between tradition and modernity.\nIn this mural is represented three scugnizzi (the "street brat") that eat macaroni (the mangiamaccheroni) a very used and stereotyped image in postcards and representations of popular Naples.</string>
+
+
+    <string name="mt_opera1_location">40.857943,14.251497</string>
+    <string name="mt_opera2_location">40.859281,14.248655</string>
+    <string name="mt_opera3_location">40.858422,14252193</string>
+    <string name="mt_opera4_location">40.859374,14.249135</string>
+    <string name="mt_opera5_location">40.855077,14.247317</string>
+    <string name="mt_opera6_location">40.854539,14.246169</string>
+    <string name="mt_opera7_location">40.853156,14.245215</string>
+    <string name="mt_opera8_location">40.854590,14.241208</string>
 
     <!--Ponticelli-->
     <string name="pt_opera1_name">Je sto vicino a te</string>
@@ -132,19 +153,29 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="pt_opera7_address">Parco Merola di Ponticelli - nicknamed Parco dei Murales</string>
 
 
-    <string name="pt_opera1_desc">On a marvelous starry background the artist has been represented what seems to be a small village, a metaphor for an ideal suburb where, between houses and narrow streets, children, teenagers and adults have been drawn, with great elegance of style. the simplest tasks of daily life. Everyone seems happy to collaborate with each other thus reinforcing the meaning of solidarity as a relationship of brotherhood that unites the members of an entire community./nThe houses, made by the artist as stilt houses, seem to insist on a large expanse of water, connected to each other by many small bridges, the same that once plowed the waters of the Sebeto that bathed the eastern territory of Naples before Twentieth century were definitively erased by rapid industrial development and from which derives the current name of the neighborhood, Ponticelli.</string>
+    <string name="pt_opera1_desc">On a marvelous starry background the artist has been represented what seems to be a small village, a metaphor for an ideal suburb where, between houses and narrow streets, children, teenagers and adults have been drawn, with great elegance of style. the simplest tasks of daily life. Everyone seems happy to collaborate with each other thus reinforcing the meaning of solidarity as a relationship of brotherhood that unites the members of an entire community.\nThe houses, made by the artist as stilt houses, seem to insist on a large expanse of water, connected to each other by many small bridges, the same that once plowed the waters of the Sebeto that bathed the eastern territory of Naples before Twentieth century were definitively erased by rapid industrial development and from which derives the current name of the neighborhood, Ponticelli.</string>
 
-    <string name="pt_opera2_desc">Jorit Agoch - Italian father and Dutch mother, among the most appreciated street artists internationally - donated to Naples a special wall: "Ael, Tutt'egual song’e criature "(a title inspired by a famous song by Enzo Avitabile), a child, an intense portrait in the Ponticelli neighborhood, which really took my breath away./nThe little girl is called Ael, looks at you in the eyes and has dark skin and two marks on her face (the artist's signature), she lives on the facade of this gigantic palace and carries with it a classical beauty.</string>
+    <string name="pt_opera2_desc">"Ael, Tutt'egual song’e criature "(a title inspired by a famous song by Enzo Avitabile)represented a child, an intense portrait in the Ponticelli neighborhood, which really took the breath away.\nThe little girl is called Ael, looks at you in the eyes and has dark skin and two marks on her face - Jorit\'s signature - she lives on the facade of this gigantic palace and carries with it a classical beauty.</string>
 
-    <string name="pt_opera3_desc">The artist has thus developed a colorful icon that protects and welcomes two children, two of his children, in the wings of his large cloak./nThis is a review of the "Madonna della Misericordia", well known to painters of the fifteenth century and famous in the version painted by Piero della Francesca, who in this case wants to represent motherhood as a gift, never as a burden. In fact, many are the contexts in which motherhood is perceived more as an obstacle, an accident or a trauma than a gift, value or choice; frequent the high rate of young mothers especially in the suburbs (and not only) and notes the difficulties encountered by women engaged in the world of work./nMotherhood as a very natural expression of femininity, simple and noble at the same time, is instead celebrated and returned by La Fille Bertha with the intent to affirm also its social value. Finally, the suggestion that the two minors may be twins will not escape.</string>
+    <string name="pt_opera3_desc">The artist has thus developed a colorful icon that protects and welcomes two children, two of his children, in the wings of his large cloak.\nThis is a review of the "Madonna della Misericordia", well known to painters of the fifteenth century and famous in the version painted by Piero della Francesca, who in this case wants to represent motherhood as a gift, never as a burden. In fact, many are the contexts in which motherhood is perceived more as an obstacle, an accident or a trauma than a gift, value or choice; frequent the high rate of young mothers especially in the suburbs (and not only) and notes the difficulties encountered by women engaged in the world of work.\nMotherhood as a very natural expression of femininity, simple and noble at the same time, is instead celebrated and returned by La Fille Bertha with the intent to affirm also its social value. Finally, the suggestion that the two minors may be twins will not escape.</string>
 
     <string name="pt_opera4_desc">Two children are represented with a book in their hands, intent on reading it, and over their heads are arranged, like a single scene, figures enriched by imaginative elements. These are the ordinary inhabitants of the Park, photographed by the artist and arranged for extraordinary characters from a world that only springs from creative reading.</string>
 
-    <string name="pt_opera5_desc">A tribute to the dreams of the local community, through references of recent history and passions that unite the generations, the third great work created by the two Sicilian street artists Rosk &amp; Loste./nTwo boys play soccer on a surface of 400 square meters, a representation of the local desire that the space in front, where you play every day in a ball, turned from gray expanse of concrete into a regular field. That balloon in mid-air substantiates the wait and becomes the object of veneration along with the two sweaters. an all-blue for Naples and the other with white and celestial vertical bands for Argentina, colors of a season that the city lived with Maradona.</string>
+    <string name="pt_opera5_desc">A tribute to the dreams of the local community, through references of recent history and passions that unite the generations, the third great work created by the two Sicilian street artists Rosk &amp; Loste.\nTwo boys play soccer on a surface of 400 square meters, a representation of the local desire that the space in front, where you play every day in a ball, turned from gray expanse of concrete into a regular field. That balloon in mid-air substantiates the wait and becomes the object of veneration along with the two sweaters. an all-blue for Naples and the other with white and celestial vertical bands for Argentina, colors of a season that the city lived with Maradona.</string>
 
     <string name="pt_opera6_desc">The artist reproduced, in surrealist style, toys with a joypad./nThe puppet seems to survive hardly the decomposition of traditional toys, crushed by the weight of the most contemporary, digital antagonists of this fabulous and enchanting scene. It represents the loss of heat and of the small sociality that many young people today ignore. They themselves are alienated only in the virtual world in which they are now sinking into a sense of strong unreality.</string>
 
     <string name="pt_opera7_desc">The work is inspired by the research of Aldo Merola, botanist and director of Real L\'Orto Botanico di Napoli, whose neighborhood is dedicated to the residential complex and the long Viale that runs along the Park itself and the verdant Villa Comunale Fratelli De Filippo.\nThe work created by the Piedmontese artist Fabio Petani has as its protagonist a Gigaro Chiaro (Arum Italicum), a flower present in the Vallone di San Gennaro, which blooms in March, when the work of art was started.\nIn ancient times it was considered a magical plant capable of removing evil spirits. The title of the work is inspired by a song by Almamegretta.</string>
+
+
+    <string name="pt_opera1_location">40.859605,14343153</string>
+    <string name="pt_opera2_location">40.859605,14343153</string>
+    <string name="pt_opera3_location">40.859605,14343153</string>
+    <string name="pt_opera4_location">40.859605,14343153</string>
+    <string name="pt_opera5_location">40.859605,14343153</string>
+    <string name="pt_opera6_location">40.859605,14343153</string>
+    <string name="pt_opera7_location">40.859605,14343153</string>
+
 
     <!--San Giovanni-->
     <string name="sg_opera1_name">Dios Umano</string>
@@ -158,9 +189,13 @@ In the road that gave birth to Totò, stands a beautiful design of the Prince of
     <string name="sg_opera2_address">Via Taverna Del Ferro</string>
 
 
-    <string name="sg_opera1_desc">The huge mural dedicated to Maradona on a facade of a building of San Giovanni a Teduccio and wants to be, at the same time, a tribute to the Pibe de Oro and an initiative aimed at the rebirth of the neighborhood./nA very curious detail concerns the "signature" of the artist, two words hidden in one of the eyes of the player visible only when the light of dawn or sunset is reflected on the mural. Jorit has personally confirmed to us that these are the words "Hasta siempre".</string>
+    <string name="sg_opera1_desc">The huge mural dedicated to Maradona on a facade of a building of San Giovanni a Teduccio and wants to be, at the same time, a tribute to the Pibe de Oro and an initiative aimed at the rebirth of the neighborhood.\nA very curious detail concerns the "signature" of the artist, two words hidden in one of the eyes of the player visible only when the light of dawn or sunset is reflected on the mural. Jorit has personally confirmed to us that these are the words "Hasta siempre".</string>
 
-    <string name="sg_opera2_desc">Essere Umani is located in San Giovanni a Teduccio, on the façade immediately next to the one in which the one in Maradona was designed. With the chiaroscuro technique was represented a playful human being, the face of a common kid, of how there are many, called Niccolò. It is a young scugnizzo that Jorit has created both in the foreground and with a zoom on the look./nThe aim of the artist is to want to make a tribute to all the Neapolitan people through the murals of a young boy who can very well represent the totality of our population.</string>
+    <string name="sg_opera2_desc">Essere Umani is located in San Giovanni a Teduccio, on the façade immediately next to the one in which the one in Maradona was designed. With the chiaroscuro technique was represented a playful human being, the face of a common kid, of how there are many, called Niccolò. It is a young scugnizzo that Jorit has created both in the foreground and with a zoom on the look.\nThe aim of the artist is to want to make a tribute to all the Neapolitan people through the murals of a young boy who can very well represent the totality of our population.</string>
+
+
+    <string name="sg_opera1_location">40.831870,14311880</string>
+    <string name="sg_opera2_location">40.831870,14311880</string>
 
 
 </resources>

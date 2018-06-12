@@ -15,6 +15,7 @@
     <dimen name="paddingOrMar_XXL">28dp</dimen>
     <dimen name="paddingOrMar_XXXL">35dp</dimen>
 
+    <dimen name="toolbarHeight">45dp</dimen>
     <dimen name="list_item_height">88dp</dimen>
 
 </resources>
