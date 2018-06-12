@@ -22,7 +22,7 @@
         style="@style/list_style"
         android:orientation="vertical">
             
-            <ImageView
+            <ImageButton
                 android:id="@+id/pointer"
                 android:src="@drawable/ic_place_black_24dp"
                 android:layout_width="match_parent"
