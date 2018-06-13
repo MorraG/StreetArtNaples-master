@@ -1,5 +1,7 @@
 package com.example.citel2018.streetartnaples;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -7,12 +9,19 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class Materdei extends Fragment {
 
+
+public class Materdei extends Fragment implements View.OnClickListener {
+
+    @Override
+    public void onClick(View v){
+
+    }
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
@@ -29,6 +38,13 @@ public class Materdei extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.content_main, container, false);
+        Button gotomaps = (Button) view.findViewById(R.id.pointer);
+        gotomaps.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                opengooglemaps(v);
+            }
+        });
 
         //creation of array list of Street Art Operas
         ArrayList<Opera> opere = new ArrayList<Opera>();
@@ -54,8 +70,15 @@ public class Materdei extends Fragment {
         listView.setAdapter(adapter);
 
 
+
         return view;
 
 
     }
+
+    private void opengooglemaps(View v) {
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("google.navigation:q="+opera.getLocation()+"&mode=d")).setPackage("com.google.android.apps.maps");
+    }
+
+
 }

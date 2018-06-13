@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity
     ListView listView;
     private static OperaAdapter adapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -129,5 +130,6 @@ public class MainActivity extends AppCompatActivity
 
         return true;
     }
+
 
 }
