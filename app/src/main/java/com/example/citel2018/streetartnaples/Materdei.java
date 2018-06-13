@@ -18,6 +18,7 @@ import java.util.ArrayList;
 
 public class Materdei extends Fragment implements View.OnClickListener {
 
+    // I don't know why is mandatory this override
     @Override
     public void onClick(View v){
 
@@ -38,6 +39,8 @@ public class Materdei extends Fragment implements View.OnClickListener {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.content_main, container, false);
+
+        ///HERE THE BUTTON FOR MAPS
         Button gotomaps = (Button) view.findViewById(R.id.pointer);
         gotomaps.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -75,7 +78,7 @@ public class Materdei extends Fragment implements View.OnClickListener {
 
 
     }
-
+    //here the method for the button
     private void opengooglemaps(View v) {
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("google.navigation:q="+opera.getLocation()+"&mode=d")).setPackage("com.google.android.apps.maps");
     }
