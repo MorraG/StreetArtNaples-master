@@ -1,12 +1,15 @@
 package com.example.citel2018.streetartnaples;
 
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.widget.ArrayAdapter;
 import android.content.Context;
 import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -40,7 +43,23 @@ public OperaAdapter(Context context, ArrayList<Opera> opere){
         }
 
         // Get the Opera object located at this position in the list
-        Opera opera = getItem(position);
+        final Opera opera = getItem(position);
+
+        //find the pointer icon
+        ImageButton pinter = (ImageButton) listItemView.findViewById(R.id.pointer);
+
+        //start navigation from the current location
+        pinter.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+
+                String uri = "http://maps.google.com/maps?daddr="+mContext.getString(opera.getLocation());
+                Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(uri));
+
+                //start activity using the context.
+                mContext.startActivity(intent);
+            }
+        });
 
 
         // Find the TextView in the list_item.xml layout with the ID autore_text_view.

@@ -16,13 +16,13 @@ import java.util.ArrayList;
 
 
 
-public class Materdei extends Fragment implements View.OnClickListener {
+public class Materdei extends Fragment /*implements View.OnClickListener*/ {
 
-    // I don't know why is mandatory this override
+    /*// I don't know why is mandatory this override
     @Override
     public void onClick(View v){
 
-    }
+    }*/
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
@@ -40,14 +40,14 @@ public class Materdei extends Fragment implements View.OnClickListener {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.content_main, container, false);
 
-        ///HERE THE BUTTON FOR MAPS
+    /*    ///HERE THE BUTTON FOR MAPS
         Button gotomaps = (Button) view.findViewById(R.id.pointer);
         gotomaps.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                opengooglemaps(v);
+                opengooglemaps(v, opera);
             }
-        });
+        });*/
 
         //creation of array list of Street Art Operas
         ArrayList<Opera> opere = new ArrayList<Opera>();
@@ -78,10 +78,10 @@ public class Materdei extends Fragment implements View.OnClickListener {
 
 
     }
-    //here the method for the button
-    private void opengooglemaps(View v) {
+   /* //here the method for the button
+    private void opengooglemaps(View v, Opera opera) {
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("google.navigation:q="+ opera.getLocation()+"&mode=d")).setPackage("com.google.android.apps.maps");
     }
-
+*/
 
 }
