@@ -80,7 +80,7 @@ public class Materdei extends Fragment implements View.OnClickListener {
     }
     //here the method for the button
     private void opengooglemaps(View v) {
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("google.navigation:q="+opera.getLocation()+"&mode=d")).setPackage("com.google.android.apps.maps");
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("google.navigation:q="+ opera.getLocation()+"&mode=d")).setPackage("com.google.android.apps.maps");
     }
 
 
