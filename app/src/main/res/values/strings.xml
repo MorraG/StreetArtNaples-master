@@ -7,6 +7,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Exit</string>
 
+    <!--HOME-->
+    <string name="nav_elem1">Home</string>
+    <string name="nav_elem2">Old Town</string>
+    <string name="nav_elem3">Materdei e Sanità</string>
+    <string name="nav_elem4">Ponticelli</string>
+    <string name="nav_elem5">San Giovanni a Teduccio</string>
+
+
 
     <!--HOME-->
     <string name="homeDescription">

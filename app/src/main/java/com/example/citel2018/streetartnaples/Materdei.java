@@ -37,14 +37,6 @@ public class Materdei extends Fragment /*implements View.OnClickListener*/ {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.content_main, container, false);
 
-    /*   ///failed trying to add button gmaps
-        Button gotomaps = (Button) view.findViewById(R.id.pointer);
-        gotomaps.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                opengooglemaps(v, opera);
-            }});*/
-
         //creation of array list of Street Art Operas
         ArrayList<Opera> opere = new ArrayList<Opera>();
 

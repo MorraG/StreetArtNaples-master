@@ -5,26 +5,26 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:checked="true"
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_home"
-            android:title="Home" />
+            android:title="@string/nav_elem1"
+            android:checked="true"
+            android:icon="@drawable/ic_home" />
         <item
             android:id="@+id/nav_oldtown"
             android:icon="@drawable/ic_oldtown"
-            android:title="Old Town" />
+            android:title="@string/nav_elem2" />
         <item
             android:id="@+id/nav_materdei"
             android:icon="@drawable/ic_materdei"
-            android:title="Materdei and Sanità" />
+            android:title="@string/nav_elem3" />
         <item
             android:id="@+id/nav_ponticelli"
             android:icon="@drawable/ic_ponticelli"
-            android:title="Ponticelli" />
+            android:title="@string/nav_elem4" />
         <item
             android:id="@+id/nav_sgiovanni"
             android:icon="@drawable/ic_sgiovanni"
-            android:title="San Giovanni" />
+            android:title="@string/nav_elem5" />
     </group>
 
 
