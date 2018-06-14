@@ -128,7 +128,7 @@
 
     <string name="mt_opera1_location">40.857943,14.251497</string>
     <string name="mt_opera2_location">40.859281,14.248655</string>
-    <string name="mt_opera3_location">40.858422,14252193</string>
+    <string name="mt_opera3_location">40.858446,14.252174</string>
     <string name="mt_opera4_location">40.859374,14.249135</string>
     <string name="mt_opera5_location">40.855077,14.247317</string>
     <string name="mt_opera6_location">40.854539,14.246169</string>
@@ -176,13 +176,13 @@
     <string name="pt_opera7_desc">The work is inspired by the research of Aldo Merola, botanist and director of Real L\'Orto Botanico di Napoli, whose neighborhood is dedicated to the residential complex and the long Viale that runs along the Park itself and the verdant Villa Comunale Fratelli De Filippo.\nThe work created by the Piedmontese artist Fabio Petani has as its protagonist a Gigaro Chiaro (Arum Italicum), a flower present in the Vallone di San Gennaro, which blooms in March, when the work of art was started.\nIn ancient times it was considered a magical plant capable of removing evil spirits. The title of the work is inspired by a song by Almamegretta.</string>
 
 
-    <string name="pt_opera1_location">40.859605,14343153</string>
-    <string name="pt_opera2_location">40.859605,14343153</string>
-    <string name="pt_opera3_location">40.859605,14343153</string>
-    <string name="pt_opera4_location">40.859605,14343153</string>
-    <string name="pt_opera5_location">40.859605,14343153</string>
-    <string name="pt_opera6_location">40.859605,14343153</string>
-    <string name="pt_opera7_location">40.859605,14343153</string>
+    <string name="pt_opera1_location">40.859605,14.343153</string>
+    <string name="pt_opera2_location">40.859605,14.343153</string>
+    <string name="pt_opera3_location">40.859605,14.343153</string>
+    <string name="pt_opera4_location">40.859605,14.343153</string>
+    <string name="pt_opera5_location">40.859605,14.343153</string>
+    <string name="pt_opera6_location">40.859605,14.343153</string>
+    <string name="pt_opera7_location">40.859605,14.343153</string>
 
 
     <!--San Giovanni-->
@@ -202,8 +202,8 @@
     <string name="sg_opera2_desc">Essere Umani is located in San Giovanni a Teduccio, on the façade immediately next to the one in which the one in Maradona was designed. With the chiaroscuro technique was represented a playful human being, the face of a common kid, of how there are many, called Niccolò. It is a young scugnizzo that Jorit has created both in the foreground and with a zoom on the look.\nThe aim of the artist is to want to make a tribute to all the Neapolitan people through the murals of a young boy who can very well represent the totality of our population.</string>
 
 
-    <string name="sg_opera1_location">40.831870,14311880</string>
-    <string name="sg_opera2_location">40.831870,14311880</string>
+    <string name="sg_opera1_location">40.831870,14.311880</string>
+    <string name="sg_opera2_location">40.831870,14.311880</string>
 
 
 </resources>
