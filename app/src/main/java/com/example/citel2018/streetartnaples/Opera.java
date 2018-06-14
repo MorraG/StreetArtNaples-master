@@ -37,21 +37,21 @@ public class Opera {
     private int mLocation;
 
 
+    /**
+     * Create a new Word object.
+     */
 
-/**
- * Create a new Word object.
- */
+    public Opera(int imageResourceId, int authorId, int titleId, int addressId, int descriptionId, int locationData) {
 
-public Opera(int imageResourceId, int authorId, int titleId, int addressId, int descriptionId, int locationData){
-
-    mImageResourceId =  imageResourceId;
-    mAuthorId = authorId;
-    mTitleId = titleId;
-    mAddressId = addressId;
-    mDescriptionId = descriptionId;
-    mLocation = locationData;
+        mImageResourceId = imageResourceId;
+        mAuthorId = authorId;
+        mTitleId = titleId;
+        mAddressId = addressId;
+        mDescriptionId = descriptionId;
+        mLocation = locationData;
 
     }
+
     /**
      * Get the location of the opera.
      */
@@ -89,10 +89,11 @@ public Opera(int imageResourceId, int authorId, int titleId, int addressId, int 
     }
 
     /**
-
      * Get the string resource ID for author of the opera.
      */
-    public int getStreetDescriptionId() {return mDescriptionId;}
+    public int getStreetDescriptionId() {
+        return mDescriptionId;
+    }
 
 
 }

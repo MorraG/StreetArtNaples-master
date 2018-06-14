@@ -64,5 +64,12 @@
         <item name="android:layout_marginTop">@dimen/textSize_S</item>
     </style>
 
+    <style name="btn_gmaps_pointer_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">#ECF0F1</item>
+    </style>
+
 
 </resources>

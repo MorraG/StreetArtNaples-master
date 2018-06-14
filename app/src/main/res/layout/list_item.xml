@@ -4,51 +4,47 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:screenOrientation="portrait"
-    android:padding="@dimen/paddingOrMar_M">
+    android:padding="@dimen/paddingOrMar_M"
+    android:screenOrientation="portrait">
 
 
     <ImageView
         android:id="@+id/image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:scaleType="center"
-        android:layout_gravity="center_horizontal"/>
-
+        android:layout_gravity="center_horizontal"
+        android:scaleType="center" />
 
 
     <LinearLayout
         android:id="@+id/text_container"
         style="@style/list_style"
         android:orientation="vertical">
-            
-            <ImageButton
-                android:id="@+id/pointer"
-                android:src="@drawable/ic_place_black_24dp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:background="#ECF0F1"
-                android:onClick="opengooglemaps"/>
 
-            <TextView
+        <ImageButton
+            android:id="@+id/pointer"
+            style="@style/btn_gmaps_pointer_style"
+            android:onClick="opengooglemaps"
+            android:src="@drawable/ic_place_black_24dp" />
+
+        <TextView
             android:id="@+id/autore_text_view"
-            tools:text="Mario Rossi"
-            style="@style/author_textview_style" />
+            style="@style/author_textview_style"
+            tools:text="Mario Rossi" />
 
-            <TextView
+        <TextView
             android:id="@+id/titolo_text_view"
-            tools:text="Opera1"
-            style="@style/title_textview_style" />
+            style="@style/title_textview_style"
+            tools:text="Opera1" />
 
-            <TextView
+        <TextView
             android:id="@+id/default_address_text_view1"
-            tools:text="Address"
-            style="@style/address_textview_style" />
-       
+            style="@style/address_textview_style"
+            tools:text="Address" />
+
         <TextView
             android:id="@+id/default_description_text_view2"
-            tools:text="Description"
-            style="@style/description_textview_style" />
+            style="@style/description_textview_style"
+            tools:text="Description" />
     </LinearLayout>
 </LinearLayout>

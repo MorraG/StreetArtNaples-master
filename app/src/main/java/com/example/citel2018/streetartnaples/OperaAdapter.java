@@ -18,18 +18,23 @@ import java.util.List;
 
 public class OperaAdapter extends ArrayAdapter<Opera> {
 
-private ArrayList<Opera> dataSet;
-Context mContext;
+    private ArrayList<Opera> dataSet;
+    Context mContext;
 
 
-/**
- * Create a new OperaAdapter object
- * @param
- * @param opere*/
+    /**
+     * Create a new OperaAdapter object
+     *
+     * @param
+     * @param opere
+     */
 
-public OperaAdapter(Context context, ArrayList<Opera> opere){
-    super(context,R.layout.list_item, (List<Opera>) opere);
-}
+    public OperaAdapter(Context context, ArrayList<Opera> opere) {
+
+        super(context, R.layout.list_item, (List<Opera>) opere);
+        dataSet = opere;
+        mContext = context;
+    }
 
     @Override
     public View getView(
@@ -49,11 +54,11 @@ public OperaAdapter(Context context, ArrayList<Opera> opere){
         ImageButton pinter = (ImageButton) listItemView.findViewById(R.id.pointer);
 
         //start navigation from the current location
-        pinter.setOnClickListener(new View.OnClickListener(){
+        pinter.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                String uri = "http://maps.google.com/maps?daddr="+mContext.getString(opera.getLocation());
+                String uri = "http://maps.google.com/maps?daddr=" + mContext.getString(opera.getLocation());
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(uri));
 
                 //start activity using the context.
@@ -92,4 +97,5 @@ public OperaAdapter(Context context, ArrayList<Opera> opere){
         // the default imageview.
         imageView.setImageResource(opera.getStreetImageResourceId());
         return listItemView;
-    }}
+    }
+}
