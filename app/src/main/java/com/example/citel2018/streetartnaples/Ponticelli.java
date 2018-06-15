@@ -17,7 +17,7 @@ public class Ponticelli extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        getActivity().setTitle("Ponticelli");
+        getActivity().setTitle(getString(R.string.ponticelliFragTitle));
     }
 
     @Nullable

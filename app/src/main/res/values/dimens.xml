@@ -6,6 +6,7 @@
     <dimen name="nav_header_height">176dp</dimen>
 
     <dimen name="textSize_S">14sp</dimen>
+    <dimen name="textSize_XS">18sp</dimen>
     <dimen name="textSize_M">24sp</dimen>
     <dimen name="textSize_L">56sp</dimen>
     <dimen name="paddingOrMar_S">8dp</dimen>

@@ -26,7 +26,7 @@ public class Materdei extends Fragment /*implements View.OnClickListener*/ {
         super.onViewCreated(view, savedInstanceState);
 
 
-        getActivity().setTitle("Materdei & Sanità");
+        getActivity().setTitle(getString(R.string.materdeiFragTitle));
 
 
     }

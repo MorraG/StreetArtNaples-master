@@ -17,7 +17,7 @@ public class Sgiovanni extends Fragment {
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
 
-        getActivity().setTitle("San Giovanni a Teduccio");
+        getActivity().setTitle(getString(R.string.sgiovanniFragTitle));
     }
 
     @Nullable

@@ -205,5 +205,13 @@
     <string name="sg_opera1_location">40.831870,14.311880</string>
     <string name="sg_opera2_location">40.831870,14.311880</string>
 
+    <!--FRAG TITLE-->
+
+    <string name="oldTownFragTitle">Old Town</string>
+    <string name="materdeiFragTitle">Materdei &amp; Sanità</string>
+    <string name="homeFragTitle">STreet ART Napoli</string>
+    <string name="ponticelliFragTitle">Ponticelli</string>
+    <string name="sgiovanniFragTitle">San Giovanni a Teduccio</string>
+
 
 </resources>

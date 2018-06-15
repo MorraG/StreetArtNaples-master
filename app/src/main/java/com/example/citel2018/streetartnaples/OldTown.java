@@ -19,7 +19,7 @@ public class OldTown extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
 
-        getActivity().setTitle("Old Town");
+        getActivity().setTitle(getString(R.string.oldTownFragTitle));
 
     }
 

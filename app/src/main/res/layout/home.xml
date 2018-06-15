@@ -25,7 +25,7 @@
         android:layout_margin="@dimen/paddingOrMar_M"
         android:gravity="top|center"
         android:text="@string/homeDescription"
-        android:textSize="@dimen/paddingOrMar_L"
+        android:textSize="@dimen/textSize_XS"
         app:fontFamily="@font/anaheim" />
 
 
